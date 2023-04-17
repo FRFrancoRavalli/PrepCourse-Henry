@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Descripción del repositorio de prueba creado directamente en github
+Franco Ravalli. Este es un proyecto de cómo creé un repositorio en github y lo envé a mi escritorio para usarlo de forma local.
